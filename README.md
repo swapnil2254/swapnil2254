@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** with a strong focus on **JavaScript**, **React**, and **Node.js**, building scalable, high-performance web applications. I love working across the stack, creating intuitive UIs and robust backend systems that solve real-world problems.
 
-Currently, I’m working at **Persistent Systems**, helping power Mastercard-Brighterion's platforms with performance-driven solutions and AWS-backed infrastructure.
+Currently, I’m working at **Persistent Systems**, helping power **Mastercard-Brighterion's** platforms with performance-driven solutions and AWS-backed infrastructure.
 
 ---
 
@@ -11,19 +11,10 @@ Currently, I’m working at **Persistent Systems**, helping power Mastercard-Bri
 - ✨ Build scalable, modular web applications with **React, Redux, and Node.js**
 - ⚙️ Design performant backend services using **Express**, **Redis**, and **PostgreSQL**
 - ☁️ Leverage **AWS (Lambda, SQS, EC2, Batch)** to create serverless, event-driven systems
-- 🔍 Optimize features with **OpenSearch**, **multi-threading**, and database transactions
-- 🎨 Develop reusable UI libraries and improve UX across teams
-
 ---
 
 ## 🔧 Tech Stack
-
-**Languages:** JavaScript (ES6+), TypeScript, Java, Python  
-**Frontend:** React.js, Redux, Tailwind CSS, Webpack  
-**Backend:** Node.js, Express, REST APIs  
-**Cloud & DevOps:** AWS (SQS, Lambda, EC2, Batch), Docker, Terraform  
-**Database:** PostgreSQL, MySQL, MongoDB, Redis  
-**Other Tools:** Git, GitHub, Postman, Swagger, Figma, Jira, Confluence  
+![](https://skillicons.dev/icons?i=javascript,typescript,python,java,nodejs,express,react,redux,babel,tailwind,webpack,aws,docker,terraform,postgres,mysql,mongodb,redis,git,github,postman,npm,jest,spring,figma&theme=dark)
 
 ---
 
@@ -47,24 +38,11 @@ A personal finance tracker built with **React** and **MongoDB**, featuring auth 
 
 ---
 
-## 📚 Education
-
-🎓 B.Tech in Electronics & Telecommunication — *8.9 CGPA*  
-🧠 Passionate about learning and adapting to new tech beyond the curriculum.
-
----
-
 ## 🌱 Currently Exploring
 
 - Cloud architecture best practices on **AWS**
 - Building secure, scalable microservices
 - System design and high-load backend systems
-
----
-
-## 🧾 Certification
-
-- **Google Cloud Digital Leader** – Understanding of core cloud concepts & services
 
 ---
 
